@@ -120,7 +120,7 @@ function ComprarView() {
               </Marker> */}
             </MapContainer>
 
-            <button type="submit" className="btn btn-dark">
+            <button type="submit" className="btn btn-dark btn-lg mt-2">
               Confirmar Compra
             </button>
           </form>
